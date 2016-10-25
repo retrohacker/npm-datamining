@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "async": "^2.1.2",
+    "concurrent-couch-follower": "^1.1.1",
+    "event-stream": "^3.3.4",
+    "github-scraper": "^3.1.0",
+    "jsonstream": "^1.0.3",
+    "mkdirp": "^0.5.1",
+    "npm-user": "^2.1.0",
+    "parse-author": "^1.0.0",
+    "request": "^2.75.0",
+    "sqlite3": "^3.1.7"
+  }
+}
